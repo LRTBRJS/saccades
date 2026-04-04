@@ -143,9 +143,6 @@ const System = (() => {
           pool = pool.filter(i => i.file !== pick.file);
         }
 
-        // -----------------------------
-        // RENDER (operador render)
-        // -----------------------------
         selected.forEach((obj, index) => {
 
           let media;
@@ -174,9 +171,6 @@ const System = (() => {
           media.style.left = pos.x + "vw";
           media.style.top = pos.y + "vh";
 
-          // -----------------------------
-          // OPACIDAD (clasificación)
-          // -----------------------------
           const cat = obj.item.category;
           const state = estado_actual;
 
@@ -198,7 +192,8 @@ const System = (() => {
               obj.item.file,
               media.getBoundingClientRect(),
               obj.item.category,
-              obj.item.title
+              obj.item.title,
+              obj.item.delay
             );
           });
 
@@ -209,7 +204,7 @@ const System = (() => {
   }
 
 
-  function enterImage(file, originRect, category, title) {
+  function enterImage(file, originRect, category, title, delay = 120) {
 
     stage.innerHTML = "";
 
@@ -231,7 +226,9 @@ const System = (() => {
 
     media.style.width = "2000px";
 
-    stage.appendChild(media);
+    setTimeout(() => {
+      stage.appendChild(media);
+    }, delay || 120);
 
     media.addEventListener("click", function handleExit() {
       media.removeEventListener("click", handleExit);
@@ -244,7 +241,6 @@ const System = (() => {
 
     let DURATION = 1200;
 
-    // 🔥 PLACA SIMPLE (sin hacks)
     const plate = document.createElement("div");
 
     plate.style.position = "fixed";
@@ -262,7 +258,6 @@ const System = (() => {
 
     document.body.appendChild(plate);
 
-    // fade imagen
     img.style.transition = "opacity 0.3s ease";
     img.style.opacity = "0";
 
@@ -270,9 +265,7 @@ const System = (() => {
       plate.style.opacity = "1";
     }, 50);
 
-    if (title) {
-  showLabel(title, originRect, DURATION);
-}
+    showLabel(title || category, originRect, DURATION);
 
     setTimeout(() => {
       if (plate.parentNode) plate.remove();
