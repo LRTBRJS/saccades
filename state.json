@@ -2,78 +2,38 @@
   {
     "id": "asset_00001",
     "file": "assets/00001.jpg",
-    "category": "still",
+    "category": "best",
     "title": "The Same but with Milk",
-    "process": "digital_paint"
+    "process": "digital_paint",
+    "rupture": false,
+    "delay": 600,
+    "scale": 1.2
   },
   {
     "id": "asset_00002",
     "file": "assets/00002.mp4",
-    "category": "off",
+    "category": "best",
     "title": "Constancio Cloro",
-    "process": "scan"
+    "process": "scan",
+    "rupture": false,
+    "delay": 50
   },
   {
     "id": "asset_00003",
     "file": "assets/00003.mp4",
     "category": "best",
     "title": "uuuuuuuu",
-    "process": "animated_loop"
+    "process": "animated_loop",
+    "rupture": false,
+    "delay": 50
   },
   {
     "id": "asset_00004",
     "file": "assets/00004.jpg",
-    "category": "still",
-    "title": "aborted painting setup",
-    "process": "setup"
-  },
-  {
-    "id": "asset_00005",
-    "file": "assets/00005.jpg",
-    "category": "off",
-    "title": "deep fall",
-    "process": "digital_paint"
-  },
-  {
-    "id": "asset_00006",
-    "file": "assets/00006.png",
-    "category": "off",
-    "title": "Demotion",
-    "process": "code_paint"
-  },
-  {
-    "id": "asset_00007",
-    "file": "assets/00007.jpg",
     "category": "best",
-    "title": "Persona de interés",
-    "process": "stroke_paint"
-  },
-  {
-    "id": "asset_00008",
-    "file": "assets/00008.jpg",
-    "category": "still",
-    "title": "",
-    "process": "gradient_paint"
-  },
-  {
-    "id": "asset_00009",
-    "file": "assets/00009.jpg",
-    "category": "still",
-    "title": "Order and Other",
-    "process": "grid_paint"
-  },
-  {
-    "id": "asset_00010",
-    "file": "assets/00010.gif",
-    "category": "off",
-    "title": "",
-    "process": "overlay_activation"
-  },
-  {
-    "id": "asset_00011",
-    "file": "assets/00011.jpg",
-    "category": "off",
-    "title": "fallen on grass",
-    "process": "digital_paint"
+    "title": "aborted painting setup",
+    "process": "setup",
+    "rupture": false,
+    "delay": 50
   }
 ]
