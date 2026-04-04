@@ -270,7 +270,9 @@ const System = (() => {
       plate.style.opacity = "1";
     }, 50);
 
-    showLabel(title || category, originRect, DURATION);
+    if (title) {
+  showLabel(title, originRect, DURATION);
+}
 
     setTimeout(() => {
       if (plate.parentNode) plate.remove();
