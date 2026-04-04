@@ -1,0 +1,737 @@
+[
+  {
+    "id": "asset_00001",
+    "file": "assets/00001.jpg",
+    "category": "still",
+    "title": "The Same but with Milk",
+    "process": "digital_paint"
+  },
+  {
+    "id": "asset_00002",
+    "file": "assets/00002.gif",
+    "category": "off",
+    "title": "Constancio Cloro",
+    "process": "scan"
+  },
+  {
+    "id": "asset_00003",
+    "file": "assets/00003.gif",
+    "category": "best",
+    "title": "uuuuuuuu",
+    "process": "animated_loop"
+  },
+  {
+    "id": "asset_00004",
+    "file": "assets/00004.jpg",
+    "category": "still",
+    "title": "aborted painting setup",
+    "process": "setup"
+  },
+  {
+    "id": "asset_00005",
+    "file": "assets/00005.jpg",
+    "category": "off",
+    "title": "deep fall",
+    "process": "digital_paint"
+  },
+  {
+    "id": "asset_00006",
+    "file": "assets/00006.png",
+    "category": "off",
+    "title": "Demotion",
+    "process": "code_paint"
+  },
+  {
+    "id": "asset_00007",
+    "file": "assets/00007.jpg",
+    "category": "best",
+    "title": "Persona de interés",
+    "process": "stroke_paint"
+  },
+  {
+    "id": "asset_00008",
+    "file": "assets/00008.jpg",
+    "category": "still",
+    "title": "",
+    "process": "gradient_paint"
+  },
+  {
+    "id": "asset_00009",
+    "file": "assets/00009.jpg",
+    "category": "still",
+    "title": "Order and Other",
+    "process": "grid_paint"
+  },
+  {
+    "id": "asset_00010",
+    "file": "assets/00010.gif",
+    "category": "off",
+    "title": "",
+    "process": "overlay_activation"
+  },
+  {
+    "id": "asset_00011",
+    "file": "assets/00011.jpg",
+    "category": "off",
+    "title": "fallen on grass",
+    "process": "digital_paint"
+  },
+  {
+    "id": "asset_00012",
+    "file": "assets/00012.jpg",
+    "category": "still",
+    "title": "emperor",
+    "process": "digital_paint"
+  },
+  {
+    "id": "asset_00013",
+    "file": "assets/00013.gif",
+    "category": "best",
+    "title": "Rotated Accident Manipulation",
+    "process": "activated_polaroid"
+  },
+  {
+    "id": "asset_00014",
+    "file": "assets/00014.gif",
+    "category": "best",
+    "title": "Bleed",
+    "process": "activated_digital_paint"
+  },
+  {
+    "id": "asset_00015",
+    "file": "assets/00015.jpg",
+    "category": "still",
+    "title": "dunes",
+    "process": "digital_paint"
+  },
+   {
+    "id": "asset_00016",
+    "file": "assets/00016.jpg",
+    "category": "still",
+    "title": "is this a joke",
+    "process": "digital_collage_paint"
+  },
+  {
+    "id": "asset_00017",
+    "file": "assets/00017.jpg",
+    "category": "still",
+    "title": "imagen desgastada",
+    "process": "unrated_collage"
+  },
+  {
+    "id": "asset_00018",
+    "file": "assets/00018.jpg",
+    "category": "still",
+    "title": "Soft Hard and Blurry",
+    "process": "digital_paint"
+  },
+  {
+    "id": "asset_00019",
+    "file": "assets/00019.jpg",
+    "category": "still",
+    "title": "study of a head",
+    "process": "digital_paint"
+  },
+  {
+    "id": "asset_00020",
+    "file": "assets/00020.jpg",
+    "category": "still",
+    "title": "",
+    "process": "digital_collage_paint"
+  },
+  {
+    "id": "asset_00021",
+    "file": "assets/00021.jpg",
+    "category": "off",
+    "title": "bas relief",
+    "process": "digital_collage"
+  },
+  {
+    "id": "asset_00022",
+    "file": "assets/00022.gif",
+    "category": "off",
+    "title": "universal method",
+    "process": "motion_gif"
+  },
+  {
+    "id": "asset_00023",
+    "file": "assets/00023.gif",
+    "category": "off",
+    "title": "Philosophy had broken",
+    "process": "scanned_altered"
+  },
+  {
+    "id": "asset_00024",
+    "file": "assets/00024.gif",
+    "category": "best",
+    "title": "a stone that is not a stone",
+    "process": "scanned_altered"
+  },
+  {
+    "id": "asset_00025",
+    "file": "assets/00025.jpg",
+    "category": "best",
+    "title": "B",
+    "process": "digital_paint"
+  },
+  {
+    "id": "asset_00026",
+    "file": "assets/00026.gif",
+    "category": "best",
+    "title": "Black_Seat_Comfortable_Zones",
+    "process": "digital_motion"
+  },
+  {
+    "id": "asset_00027",
+    "file": "assets/00027.jpg",
+    "category": "best",
+    "title": "grb",
+    "process": "pleated_paint_degradation"
+  },
+  {
+    "id": "asset_00028",
+    "file": "assets/00028.mp4",
+    "category": "best",
+    "title": "Nos imitamos",
+    "process": "digital_motion_sound_paint"
+  },
+  {
+    "id": "asset_00029",
+    "file": "assets/00029.jpg",
+    "category": "best",
+    "title": "This is Really Serious",
+    "process": "digital_paint"
+  },
+  {
+    "id": "asset_00030",
+    "file": "assets/00030.gif",
+    "category": "best",
+    "title": "M_[M] + [C] + ∞",
+    "process": "scanned_altered"
+  },
+  {
+    "id": "asset_00031",
+    "file": "assets/00031.jpg",
+    "category": "best",
+    "title": "",
+    "process": "glued_paint_dripping"
+  },
+  {
+    "id": "asset_00032",
+    "file": "assets/00032.jpg",
+    "category": "best",
+    "title": "1910",
+    "process": "digital_paint"
+  },
+  {
+    "id": "asset_00033",
+    "file": "assets/00033.gif",
+    "category": "best",
+    "title": "I can't recall her butt but she was a horse",
+    "process": "scanned_ai_motion_collage"
+  },
+  {
+    "id": "asset_00034",
+    "file": "assets/00034.jpg",
+    "category": "best",
+    "title": "woman horse",
+    "process": "scanned_ai_collage"
+  },
+  {
+    "id": "asset_00035",
+    "file": "assets/00035.mp4",
+    "category": "off",
+    "title": "Activision",
+    "process": "short_film"
+  },
+  {
+    "id": "asset_00036",
+    "file": "assets/00036.jpg",
+    "category": "still",
+    "title": "mujer",
+    "process": "scanned_draw_rest"
+  },
+  {
+    "id": "asset_00037",
+    "file": "assets/00037.jpg",
+    "category": "still",
+    "title": "GJtFCg3W4AAmL5u",
+    "process": "3d_reborn"
+  },
+  {
+    "id": "asset_00038",
+    "file": "assets/00038.jpg",
+    "category": "still",
+    "title": "2005",
+    "process": "scanned_grid_draw_setup"
+  },
+  {
+    "id": "asset_00039",
+    "file": "assets/00039.gif",
+    "category": "still",
+    "title": "as long as bitcoin pumps",
+    "process": "scanned_draw_alteration"
+  },
+  {
+    "id": "asset_00040",
+    "file": "assets/00040.jpg",
+    "category": "still",
+    "title": "balloon",
+    "process": "failed_ia_draw"
+  },
+  {
+    "id": "asset_00041",
+    "file": "assets/00041.jpg",
+    "category": "still",
+    "title": "",
+    "process": "digital_paint_3d_imitation"
+  },
+  {
+    "id": "asset_00042",
+    "file": "assets/00042.jpg",
+    "category": "still",
+    "title": "brick",
+    "process": "digital_paint_reference"
+  },
+  {
+    "id": "asset_00043",
+    "file": "assets/00043.jpg",
+    "category": "best",
+    "title": "Dress code",
+    "process": "sculpture_clay_ia"
+  },
+  {
+    "id": "asset_00044",
+    "file": "assets/00044.jpg",
+    "category": "still",
+    "title": "Possesed",
+    "process": "digital_paint"
+  },
+  {
+    "id": "asset_00045",
+    "file": "assets/00045.jpg",
+    "category": "undefined",
+    "title": "Paris est une fete",
+    "process": "paint"
+  },
+  {
+    "id": "asset_00046",
+    "file": "assets/00046.jpg",
+    "category": "still",
+    "title": "Van Gogh in New York Loft",
+    "process": "ia_collage_paint"
+  },
+  {
+    "id": "asset_00047",
+    "file": "assets/00047.jpg",
+    "category": "still",
+    "title": "Leviathan",
+    "process": "ia_manipulation"
+  },
+  {
+    "id": "asset_00048",
+    "file": "assets/00048.mp4",
+    "category": "still",
+    "title": "la quijada mueve al mundo",
+    "process": "draw_collage_animation_workshop"
+  },
+  {
+    "id": "asset_00049",
+    "file": "assets/00049.mp4",
+    "category": "best",
+    "title": "la música entra por los pies",
+    "process": "clay_noise_ia_set"
+  },
+  {
+    "id": "asset_00050",
+    "file": "assets/00050.jpg",
+    "category": "best",
+    "title": "Guibé",
+    "process": "scanned_paint_model"
+  },
+  {
+    "id": "asset_00051",
+    "file": "assets/00051.gif",
+    "category": "still",
+    "title": "",
+    "process": "3d_set_degradation"
+  },
+  {
+    "id": "asset_00052",
+    "file": "assets/00052.png",
+    "category": "best",
+    "title": "",
+    "process": "3d_body_glitch"
+  },
+  {
+    "id": "asset_00053",
+    "file": "assets/00053.jpg",
+    "category": "undefined",
+    "title": "Double Thirst",
+    "process": "ia_music_pub"
+  },
+   {
+    "id": "asset_00054",
+    "file": "assets/00054.jpg",
+    "category": "undefined",
+    "title": "Ground 0",
+    "process": "digital_paint"
+  },
+  {
+    "id": "asset_00055",
+    "file": "assets/00055.jpg",
+    "category": "undefined",
+    "title": "",
+    "process": "study_paint_saccades"
+  },
+  {
+    "id": "asset_00056",
+    "file": "assets/00056.jpg",
+    "category": "still",
+    "title": "",
+    "process": "hat_draw_drunk"
+  },
+  {
+    "id": "asset_00057",
+    "file": "assets/00057.jpg",
+    "category": "undefined",
+    "title": "icon",
+    "process": "pub_collage"
+  },
+  {
+    "id": "asset_00058",
+    "file": "assets/00058.jpg",
+    "category": "undefined",
+    "title": "obsession",
+    "process": "pub_collage_letraset"
+  },
+  {
+    "id": "asset_00059",
+    "file": "assets/00059.jpg",
+    "category": "undefined",
+    "title": "imagine",
+    "process": "pub_collage"
+  },
+  {
+    "id": "asset_00060",
+    "file": "assets/00060.jpg",
+    "category": "undefined",
+    "title": "jeune fille",
+    "process": "pub_collage"
+  },
+  {
+    "id": "asset_00061",
+    "file": "assets/00061.jpg",
+    "category": "undefined",
+    "title": "renoma",
+    "process": "pub_collage"
+  },
+  {
+    "id": "asset_00062",
+    "file": "assets/00062.jpg",
+    "category": "undefined",
+    "title": "marilyn",
+    "process": "pub_collage_photomaton"
+  },
+  {
+    "id": "asset_00063",
+    "file": "assets/00063.jpg",
+    "category": "undefined",
+    "title": "rouge homme femme",
+    "process": "pub_collage_bd"
+  },
+  {
+    "id": "asset_00064",
+    "file": "assets/00064.jpg",
+    "category": "undefined",
+    "title": "evian",
+    "process": "oil_paint_water"
+  },
+  {
+    "id": "asset_00065",
+    "file": "assets/00065.jpg",
+    "category": "undefined",
+    "title": "twinpeaks",
+    "process": "oil_paint_left_right"
+  },
+  {
+    "id": "asset_00066",
+    "file": "assets/00066.jpg",
+    "category": "undefined",
+    "title": "tres piedras",
+    "process": "oil_paint_gestural_figuration"
+  },
+  {
+    "id": "asset_00067",
+    "file": "assets/00067.jpg",
+    "category": "undefined",
+    "title": "ERM",
+    "process": "oil_paint_motion_landscape"
+  },
+  {
+    "id": "asset_00068",
+    "file": "assets/00068.jpg",
+    "category": "undefined",
+    "title": "lunatic",
+    "process": "oil_paint_motion_landscape"
+  },
+  {
+    "id": "asset_00069",
+    "file": "assets/00069.jpg",
+    "category": "undefined",
+    "title": "turbulance",
+    "process": "oil_paint_motion_landscape"
+  },
+  {
+    "id": "asset_00070",
+    "file": "assets/00070.jpg",
+    "category": "undefined",
+    "title": "panoramico",
+    "process": "oil_paint_panoramic"
+  },
+  {
+    "id": "asset_00071",
+    "file": "assets/00071.jpg",
+    "category": "undefined",
+    "title": "",
+    "process": "oil_paint_fall"
+  },
+  {
+    "id": "asset_00072",
+    "file": "assets/00072.jpg",
+    "category": "undefined",
+    "title": "(-)(-)negative",
+    "process": "oil_paint_degradation"
+  },
+  {
+    "id": "asset_00073",
+    "file": "assets/00073.jpg",
+    "category": "undefined",
+    "title": "Cascades d'eau bleu",
+    "process": "oil_paint_frontal_cascades"
+  },
+  {
+    "id": "asset_00074",
+    "file": "assets/00074.jpg",
+    "category": "undefined",
+    "title": "Malibu",
+    "process": "oil_paint_spalter"
+  },
+  {
+    "id": "asset_00075",
+    "file": "assets/00075.jpg",
+    "category": "undefined",
+    "title": "Paris sous la neige",
+    "process": "oil_paint_face"
+  },
+  {
+    "id": "asset_00076",
+    "file": "assets/00076.gif",
+    "category": "off",
+    "title": "cuatro colores",
+    "process": "gif"
+  },
+  {
+    "id": "asset_00077",
+    "file": "assets/00077.jpg",
+    "category": "undefined",
+    "title": "quinta fachada",
+    "process": "oil_paint_angle"
+  },
+  {
+    "id": "asset_00078",
+    "file": "assets/00078.jpg",
+    "category": "undefined",
+    "title": "",
+    "process": "masking_tape_circle_wall"
+  },
+  {
+    "id": "asset_00079",
+    "file": "assets/00079.jpg",
+    "category": "undefined",
+    "title": "",
+    "process": "masking_tape_circle_set"
+  },
+  {
+    "id": "asset_00080",
+    "file": "assets/00080.jpg",
+    "category": "undefined",
+    "title": "",
+    "process": "oil_angle_box_workshop"
+  },
+  {
+    "id": "asset_00081",
+    "file": "assets/00081.jpg",
+    "category": "off",
+    "title": "rectoria",
+    "process": "oil_paint_build"
+  },
+  {
+    "id": "asset_00082",
+    "file": "assets/00082.jpg",
+    "category": "off",
+    "title": "Sequía",
+    "process": "oil_paint_pancho"
+  },
+  {
+    "id": "asset_00083",
+    "file": "assets/00083.jpg",
+    "category": "best",
+    "title": "",
+    "process": "pancho_setting"
+  },
+  {
+    "id": "asset_00084",
+    "file": "assets/00084.jpg",
+    "category": "best",
+    "title": "MAN_SEATED_ON_THE_GRASS_SMOKING",
+    "process": "oil_saturation_destabilization"
+  },
+  {
+    "id": "asset_00085",
+    "file": "assets/00085.jpg",
+    "category": "still",
+    "title": "Modern thoughts",
+    "process": "paint_planes"
+  },
+  {
+    "id": "asset_00086",
+    "file": "assets/00086.jpg",
+    "category": "still",
+    "title": "La_societe_des_femmes_perdue",
+    "process": "repetition_flattens_field"
+  },
+  {
+    "id": "asset_00087",
+    "file": "assets/00087.jpg",
+    "category": "still",
+    "title": "mulas",
+    "process": "gesture_interrupts_flat_field"
+  },
+  {
+    "id": "asset_00088",
+    "file": "assets/00088.gif",
+    "category": "off",
+    "title": "moving average",
+    "process": "digital_paint_frame_motion"
+  },
+  {
+    "id": "asset_00089",
+    "file": "assets/00089.jpg",
+    "category": "off",
+    "title": "slot",
+    "process": "on_off_painting"
+  },
+  {
+    "id": "asset_00090",
+    "file": "assets/00090.jpg",
+    "category": "best",
+    "title": "Growing square until then",
+    "process": "process_paint"
+  },
+  {
+    "id": "asset_00091",
+    "file": "assets/00091.jpg",
+    "category": "best",
+    "title": "Ismael",
+    "process": "digital_paint_gestural"
+  },
+  {
+    "id": "asset_00092",
+    "file": "assets/00092.jpg",
+    "category": "off",
+    "title": "innovation",
+    "process": "unstructured_accumulation"
+  },
+  {
+    "id": "asset_00093",
+    "file": "assets/00093.jpg",
+    "category": "undefined",
+    "title": "building a form",
+    "process": "digital_separation"
+  },
+  {
+    "id": "asset_00094",
+    "file": "assets/00094.jpg",
+    "category": "best",
+    "title": "Ciencia Ficción",
+    "process": "oil_crossing"
+  },
+  {
+    "id": "asset_00095",
+    "file": "assets/00095.jpg",
+    "category": "still",
+    "title": "draw and repeat",
+    "process": "interference_on_structured_field"
+  },
+  {
+    "id": "asset_00096",
+    "file": "assets/00096.jpg",
+    "category": "undefined",
+    "title": "",
+    "process": "pattern_fields"
+  },
+  {
+    "id": "asset_00097",
+    "file": "assets/00097.jpg",
+    "category": "best",
+    "title": "impossible mission II",
+    "process": "pattern_fields"
+  },
+  {
+    "id": "asset_00098",
+    "file": "assets/00098.jpg",
+    "category": "still",
+    "title": "the game",
+    "process": "pixel_field"
+  },
+  {
+    "id": "asset_00099",
+    "file": "assets/00099.jpg",
+    "category": "still",
+    "title": "jogger",
+    "process": "vertical_cut_disrupts_scene"
+  },
+  {
+    "id": "asset_00100",
+    "file": "assets/00100.jpg",
+    "category": "off",
+    "title": "black woman walking with dog",
+    "process": "over_continuity_flattens_scene"
+  },
+  {
+    "id": "asset_00101",
+    "file": "assets/00101.jpg",
+    "category": "still",
+    "title": "Cool Meditations",
+    "process": "paint_cool"
+  },
+  {
+    "id": "asset_00102",
+    "file": "assets/00102.jpg",
+    "category": "best",
+    "title": "Explanation",
+    "process": "Ia_setting"
+  },
+  {
+    "id": "asset_00103",
+    "file": "assets/00103.png",
+    "category": "still",
+    "title": "alone",
+    "process": "rgb_moment"
+  },
+  {
+    "id": "asset_00104",
+    "file": "assets/00104.mp4",
+    "category": "best",
+    "title": "Modern_Black_Leather_Sofa_Living",
+    "process": "screen_interaction"
+  },
+  {
+    "id": "asset_00105",
+    "file": "assets/00105.jpg",
+    "category": "best",
+    "title": "Neon_Party_01",
+    "process": "screen_interaction_reality"
+  }
+]
