@@ -1,25 +1,33 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Saccades</title>
-  <link rel="stylesheet" href="style.css">
+
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+      background: black;
+      font-family: sans-serif;
+    }
+
+    #stage {
+      position: relative;
+      width: 100vw;
+      height: 100vh;
+    }
+
+    .asset {
+      position: absolute;
+      transition: transform 0.4s ease, opacity 0.4s ease, filter 0.4s ease;
+      will-change: transform, opacity, filter;
+      cursor: pointer;
+    }
+  </style>
 </head>
+
 <body>
-  <div id="signature">
-  <a href="about.html">eluart</a>
-</div>
+
   <div id="stage"></div>
-  <div id="overlay"></div>
-  <div id="overlay-text"></div>
-  <script src="script.js"></script>
 
-  <nav id="menu">
-  <button data-state="best">D</button>
-  <button data-state="still">O</button>
-  <button data-state="off">N</button>
-  <button data-state="undefined">T</button>
-</nav>
+  <!-- Aquí conectas tu script -->
+  <script src="../src/system-v1.js"></script>
 
-  
 </body>
 </html>
